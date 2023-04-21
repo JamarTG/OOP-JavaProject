@@ -1,0 +1,1 @@
+13 Elm Str,3,2,3000,200000023,Jamari McFarlane,Derrick Samuel,C:\Users\JamariMcFarlane\Documents\house exterior\house4.jpg,C:\Users\JamariMcFarlane\Documents\house interior\house interior1.jpg*C:\Users\JamariMcFarlane\Documents\house interior\house interior2.jpg*C:\Users\JamariMcFarlane\Documents\house interior\house interior3.jpg,true,false
